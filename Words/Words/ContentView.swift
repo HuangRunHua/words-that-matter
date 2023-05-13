@@ -9,12 +9,14 @@ import SwiftUI
 
 struct ContentView: View {
     
+    @AppStorage("sorted") var sorted: Bool = true
+    
     private let sourceURLString: String = "https://github.com/HuangRunHua/words-that-matter/raw/main/words.json"
     
     @EnvironmentObject var modelData: ModelData
     
     var words: [Word] {
-        return modelData.database?.words.sorted(by: { $0.id > $1.id }) ?? []
+        return self.sorted ? modelData.database?.words.sorted(by: { $0.id > $1.id }) ?? [] : modelData.database?.words.sorted(by: { $0.id < $1.id }) ?? [] 
     }
     
     @State private var showDetailWord: Bool = false
@@ -38,6 +40,16 @@ struct ContentView: View {
                     }
                 }
                 .navigationTitle("Words")
+                .toolbar {
+                    ToolbarItem(placement: .navigationBarLeading) {
+                        Button {
+                            self.sorted.toggle()
+                        } label: {
+                            Image(systemName: "arrow.right.arrow.left")
+                        }
+
+                    }
+                }
             }
         }
         .onAppear {
