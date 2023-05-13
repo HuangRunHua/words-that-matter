@@ -22,16 +22,23 @@ struct ContentView: View {
     
     var body: some View {
         NavigationView {
-            List {
-                ForEach(words) { word in
-                    Text(word.word)
-                        .onTapGesture {
+            if self.words.isEmpty {
+                ProgressView()
+                    .progressViewStyle(.circular)
+            } else {
+                List {
+                    ForEach(words) { word in
+                        Button(action: {
                             self.tag = self.words.firstIndex(where: { $0.id == word.id})
                             self.showDetailWord.toggle()
+                        }) {
+                            Text(word.word)
+                                .foregroundColor(.primary)
                         }
+                    }
                 }
+                .navigationTitle("Words")
             }
-            .navigationTitle("Words")
         }
         .onAppear {
             DispatchQueue.main.async {
