@@ -22,7 +22,7 @@ class WordsJSONGenerator(object):
                     new_element = {
                         "id": int(row[0]) + self.words["count"],
                         "word": row[1],
-                        "examples": [row[2]]
+                        "example": row[2]
                     }
                     self.words["words"].append(new_element)
                 row_index += 1
