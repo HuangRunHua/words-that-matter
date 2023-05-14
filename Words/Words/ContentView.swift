@@ -34,8 +34,13 @@ struct ContentView: View {
                             self.tag = self.words.firstIndex(where: { $0.id == word.id})
                             self.showDetailWord.toggle()
                         }) {
-                            Text(word.word)
-                                .foregroundColor(.primary)
+                            HStack(alignment: .center) {
+                                Text("\(word.id)")
+                                    .foregroundColor(.gray)
+                                    .font(.system(size: 15))
+                                Text(word.word)
+                                    .foregroundColor(.primary)
+                            }
                         }
                     }
                 }
