@@ -37,9 +37,10 @@ struct ContentView: View {
                             HStack(alignment: .center) {
                                 Text("\(word.id)")
                                     .foregroundColor(.gray)
-                                    .font(.system(size: 15))
+                                    .font(Font.custom("Georgia", size: 15))
                                 Text(word.word)
                                     .foregroundColor(.primary)
+                                    .font(Font.custom("Georgia", size: 18))
                             }
                         }
                     }
