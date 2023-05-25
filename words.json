@@ -1,5 +1,5 @@
 {
-    "count": 200,
+    "count": 300,
     "words": [
         {
             "id": 1,
@@ -1000,6 +1000,506 @@
             "id": 200,
             "word": "embody",
             "example": "Chatgpt embodies more knowledge than any human has ever known."
+        },
+        {
+            "id": 201,
+            "word": "don",
+            "example": "To enter a virtual environment, users must don a set of VR goggles"
+        },
+        {
+            "id": 202,
+            "word": "subsidy",
+            "example": "As the United States takes its own steps towards the green transition, the last thing the world needs right now is a subsidy race between two close, like-minded partners."
+        },
+        {
+            "id": 203,
+            "word": "drone",
+            "example": "One landmark is a high-rise office building left scarred by a Russian drone attack on October 10th."
+        },
+        {
+            "id": 204,
+            "word": "commission",
+            "example": "Nigeria\u2019s independent electoral commission said that a general election scheduled for February 25th may have to be postponed because of a wave of attacks on its offices."
+        },
+        {
+            "id": 205,
+            "word": "democrat",
+            "example": "But as a younger actor he was a Democrat and a civil-rights activist."
+        },
+        {
+            "id": 206,
+            "word": "roughly",
+            "example": "In 2023 the World Obesity Federation (wof), an ngo, says 1.1bn people aged older than five, or roughly 14% of all people in that age bracket, were obese."
+        },
+        {
+            "id": 207,
+            "word": "committee",
+            "example": "In 2010 a Senate committee in America said he was implicated in the transfer of $40m in \u201csuspect funds\u201d to that country."
+        },
+        {
+            "id": 208,
+            "word": "venture",
+            "example": "In 2016 psa entered a joint venture with Chinese state-owned rail operators to run a network of dry ports in China."
+        },
+        {
+            "id": 209,
+            "word": "council",
+            "example": "A powerful partnership council led by politicians can amend much of the deal."
+        },
+        {
+            "id": 210,
+            "word": "mar",
+            "example": "Like Mr Piqu\u00e9, brands, too, may soon find that Argentine artists make or mar their reputations."
+        },
+        {
+            "id": 211,
+            "word": "monetary",
+            "example": "The problem is that monetary tightening has made them still more likely."
+        },
+        {
+            "id": 212,
+            "word": "blighty",
+            "example": "https://www.economist.com/newsletters/blighty"
+        },
+        {
+            "id": 213,
+            "word": "coal",
+            "example": "The factory will run not on coal or natural gas but on green hydrogen"
+        },
+        {
+            "id": 214,
+            "word": "radical",
+            "example": "In this context, the government\u2019s response to Silicon Valley Bank looks more like another notch in the wall rather than a radical new design."
+        },
+        {
+            "id": 215,
+            "word": "pattern",
+            "example": "They would repeat the pattern as quickly as possible by \u201chot-pit\u201d refuelling with engines running."
+        },
+        {
+            "id": 216,
+            "word": "crop",
+            "example": "This year the regime aims to cultivate 1.5m acres of the crop, up from 600,000 acres in 2021."
+        },
+        {
+            "id": 217,
+            "word": "panel",
+            "example": "Last month a panel convened by the mayor and governor presented a plan to transform New York City, with 40 initiatives to reinvent three broad areas"
+        },
+        {
+            "id": 218,
+            "word": "moreover",
+            "example": "Moreover, Mr Obi faces real obstacles to winning power."
+        },
+        {
+            "id": 219,
+            "word": "consensus",
+            "example": "Yet Taiwanese have no consensus on who they are, how they relate to China or if they should ever fight."
+        },
+        {
+            "id": 220,
+            "word": "fertility",
+            "example": "The typical millennial is haunted by Instagram adverts for fertility treatment, wills and Viagra."
+        },
+        {
+            "id": 221,
+            "word": "outfit",
+            "example": "Rhodium Group, a research outfit, estimates that a Chinese blockade of Taiwan could cost the world economy more than $2trn."
+        },
+        {
+            "id": 222,
+            "word": "sovereign",
+            "example": "an American aircraft manufacturer, to buy as many as 72 of its 787 Dreamliners for a new airline being established by the main Saudi sovereign-wealth fund."
+        },
+        {
+            "id": 223,
+            "word": "scrap",
+            "example": "All three candidates promise to scrap the ruinous petrol subsidy and reform the exchange-rate system "
+        },
+        {
+            "id": 224,
+            "word": "drum",
+            "example": "which long ago lost its lead in chipmaking to TSMC but has since banged the drum for chip nationalism."
+        },
+        {
+            "id": 225,
+            "word": "copper",
+            "example": "The country buys a fifth of the world\u2019s oil, over half of its refined copper, nickel and zinc, and more than three-fifths of its iron ore."
+        },
+        {
+            "id": 226,
+            "word": "genome",
+            "example": "Some research has found that viral mutations in animals infected by human-derived SARS-CoV-2 are in parts of the genome that are changed in VOCs"
+        },
+        {
+            "id": 227,
+            "word": "dedicate",
+            "example": "Dr Li thinks we \u201cshould dedicate more\u2014much more\u2014resources\u201d to research on ai alignment and governance."
+        },
+        {
+            "id": 228,
+            "word": "hedge",
+            "example": "They also thought Treasuries were safe and loans were risky,\u201d says Angel Ubide of Citadel, a hedge fund."
+        },
+        {
+            "id": 229,
+            "word": "assembly",
+            "example": "This is the first step, Ms Kottaridi says, in the assembly of a huge digital exhibition of the Hellenistic era."
+        },
+        {
+            "id": 230,
+            "word": "cast",
+            "example": "The high-speed collapse of svb has cast light on an underappreciated risk within the system."
+        },
+        {
+            "id": 231,
+            "word": "spur",
+            "example": "Giddy Iranian officials talked about how the partnership agreement might spur $400bn in Chinese investment."
+        },
+        {
+            "id": 232,
+            "word": "broke",
+            "example": "If the pla broke out of its beachheads, it would face a slog through arduous terrain to reach Taipei and other urban centres."
+        },
+        {
+            "id": 233,
+            "word": "pump",
+            "example": "America solves it by having plutocrats from across the political spectrum pump cash into think-tanks."
+        },
+        {
+            "id": 234,
+            "word": "loom",
+            "example": "As America rearms in Asia and tries to galvanise its allies, two questions loom."
+        },
+        {
+            "id": 235,
+            "word": "ceiling",
+            "example": "to raise the debt ceiling or to provide additional support"
+        },
+        {
+            "id": 236,
+            "word": "strait",
+            "example": "Nor is it certain that the pla has enough ships to transport an adequate landing force quickly across the strait."
+        },
+        {
+            "id": 237,
+            "word": "extent",
+            "example": "high-resolution satellite images showed the extent of the damage."
+        },
+        {
+            "id": 238,
+            "word": "boast",
+            "example": "Their guns are implicitly defending the likes of Austria, which get to splurge on more butter and boast of their virtue to boot."
+        },
+        {
+            "id": 239,
+            "word": "sentiment",
+            "example": "Indicators of sentiment have risen for two months in a row."
+        },
+        {
+            "id": 240,
+            "word": "tricky",
+            "example": "A swell of political goodwill in the wake of the crisis may help Lula build the support he needs in Congress for a series of tricky economic reforms"
+        },
+        {
+            "id": 241,
+            "word": "strain",
+            "example": "it has infected British politics with a destructive strain of magical thinking."
+        },
+        {
+            "id": 242,
+            "word": "cement",
+            "example": "Some industries, such as cement-making or chemicals, are hard to decarbonise."
+        },
+        {
+            "id": 243,
+            "word": "exploit",
+            "example": "Jihadists and bandits terrorise and exploit civilians"
+        },
+        {
+            "id": 244,
+            "word": "artillery",
+            "example": "Russian artillery probably accounts for most war-related fires in Ukrainian-held territory. "
+        },
+        {
+            "id": 245,
+            "word": "naval",
+            "example": "a naval analyst who uses sar imagery to track ship movements."
+        },
+        {
+            "id": 246,
+            "word": "pound",
+            "example": "The Egyptian pound has sunk to a new low against the dollar"
+        },
+        {
+            "id": 247,
+            "word": "petro",
+            "example": "For decades the six members of the Gulf Co-operation Council (GCC), a club of petro-monarchies, maintained similar social contracts."
+        },
+        {
+            "id": 248,
+            "word": "phage",
+            "example": "They could fund basic research into phage therapy, and clarify the law around exactly what is and is not patentable."
+        },
+        {
+            "id": 249,
+            "word": "cable",
+            "example": "Its broadcast and cable-television networks continue to rake in billions of dollars a year."
+        },
+        {
+            "id": 250,
+            "word": "wary",
+            "example": "They are wary of moves by America and its allies to portray China as explicitly backing Mr Putin\u2019s war."
+        },
+        {
+            "id": 251,
+            "word": "demographic",
+            "example": "That would further deepen Ukraine\u2019s demographic woes"
+        },
+        {
+            "id": 252,
+            "word": "provision",
+            "example": "a provision in copyright law that allows limited use of copyrighted material"
+        },
+        {
+            "id": 253,
+            "word": "armour",
+            "example": "these are armoured infantry carriers with guns, rather than true tanks, which have tougher armour and more powerful cannons."
+        },
+        {
+            "id": 254,
+            "word": "submarine",
+            "example": "In a landmark agreement, Britain is to help design and build a new type of submarine for Australia"
+        },
+        {
+            "id": 255,
+            "word": "lucrative",
+            "example": "it was his willingness to risk his lucrative job for the sake of the ai chatbot."
+        },
+        {
+            "id": 256,
+            "word": "lean",
+            "example": "On policy, his economic instincts lean towards liberalism"
+        },
+        {
+            "id": 257,
+            "word": "grip",
+            "example": "If Mr Putin\u2019s grip on power slipped, instability on China\u2019s vast northern border with Russia could follow."
+        },
+        {
+            "id": 258,
+            "word": "chunk",
+            "example": "Yet a big chunk of Ukrainian tank losses are from mines, according to informed sources."
+        },
+        {
+            "id": 259,
+            "word": "stall",
+            "example": "But since progress started to stall in the early 2010s, it is a natural moment to choose."
+        },
+        {
+            "id": 260,
+            "word": "shed",
+            "example": "Apple shed $846bn in market value and Amazon $834bn"
+        },
+        {
+            "id": 261,
+            "word": "munition",
+            "example": "A big headache would be how to get fuel and munitions to the right places."
+        },
+        {
+            "id": 262,
+            "word": "crunch",
+            "example": "Thanks to regulators, svb\u2019s demise has not meant a Silicon Valley cash crunch."
+        },
+        {
+            "id": 263,
+            "word": "tariff",
+            "example": "Electricity tariffs are kept artificially low by the government"
+        },
+        {
+            "id": 264,
+            "word": "chamber",
+            "example": "Three members of the Freedom Caucus will sit on the powerful Rules Committee, which controls when and how bills are debated on the floor of the chamber."
+        },
+        {
+            "id": 265,
+            "word": "snap",
+            "example": "At only 15 he was snapped up by Santos, his first professional club."
+        },
+        {
+            "id": 266,
+            "word": "robust",
+            "example": "One result of Mr Xi\u2019s visit appears to have been a more robust assurance that Mr Putin would back him in a war over Taiwan."
+        },
+        {
+            "id": 267,
+            "word": "audit",
+            "example": "at the same time develop technical tools for effective auditing."
+        },
+        {
+            "id": 268,
+            "word": "secular",
+            "example": "The foreign ministry, once a bastion of the secular establishment"
+        },
+        {
+            "id": 269,
+            "word": "judicial",
+            "example": "Yet it also has a worsening record of religious intolerance, judicial bias and a muzzled press."
+        },
+        {
+            "id": 270,
+            "word": "ordinate",
+            "example": "while maintaining the capacity to gather or co-ordinate in attacks."
+        },
+        {
+            "id": 271,
+            "word": "retreat",
+            "example": "where freedom is in retreat in a number of countries after a spate of coups"
+        },
+        {
+            "id": 272,
+            "word": "emirate",
+            "example": "In January the emirate did suspend its 30% tax on alcohol"
+        },
+        {
+            "id": 273,
+            "word": "stance",
+            "example": "America needs to calibrate its stance: reassure Mr Xi that his red lines remain intact"
+        },
+        {
+            "id": 274,
+            "word": "tune",
+            "example": "He may be more in tune with business than his boss is, but he is expected to be unflinchingly loyal."
+        },
+        {
+            "id": 275,
+            "word": "ideological",
+            "example": "China\u2019s approach is not improvised, but systematic and ideological."
+        },
+        {
+            "id": 276,
+            "word": "foster",
+            "example": "to foster fake intimacy with humans it is enough if the ai can make them feel emotionally attached to it."
+        },
+        {
+            "id": 277,
+            "word": "census",
+            "example": "There are caveats to these figures. First, our life-expectancy estimate for 2022 is based on provisional death figures using population projections that have not yet incorporated changes from the 2021 census."
+        },
+        {
+            "id": 278,
+            "word": "handout",
+            "example": "obtained from a handout video released by the NTSB."
+        },
+        {
+            "id": 279,
+            "word": "entity",
+            "example": "there is an entity that cannot be defeated.\u201d"
+        },
+        {
+            "id": 280,
+            "word": "lure",
+            "example": "Ukrainians to rebuild their shattered land may be more than countered by the lure of better professional and financial conditions in the eu\u2014especially when that means joining wives and children who have begun to integrate."
+        },
+        {
+            "id": 281,
+            "word": "fusion",
+            "example": "untangling the complexities of fusion power."
+        },
+        {
+            "id": 282,
+            "word": "brutal",
+            "example": "the war has left a brutal mark on large swathes of Ukraine."
+        },
+        {
+            "id": 283,
+            "word": "tactic",
+            "example": "The high number of people killed in recent unrest from bullets to the head is reported to be a tactic suggested by his astrologer."
+        },
+        {
+            "id": 284,
+            "word": "bolster",
+            "example": "The report will bolster Mr Ramaphosa\u2019s political position."
+        },
+        {
+            "id": 285,
+            "word": "rap",
+            "example": "Mr Townsend pulled out his phone to play a rap he had just posted"
+        },
+        {
+            "id": 286,
+            "word": "hail",
+            "example": "Many Chinese hail him as a whistleblower who was among the first to draw attention to the pandemic as it emerged three years ago in the central city of Wuhan"
+        },
+        {
+            "id": 287,
+            "word": "clout",
+            "example": "If Iran keeps pushing ahead with its nuclear programme, the Saudis hope that China can be persuaded to use its economic clout to help rein in the regime."
+        },
+        {
+            "id": 288,
+            "word": "notion",
+            "example": "There is this notion that the more this virus circulates, the less severe it will become"
+        },
+        {
+            "id": 289,
+            "word": "bureaucracy",
+            "example": "A mobility agreement would ease the bureaucracy around short-term visits for businesses, artists and musicians"
+        },
+        {
+            "id": 290,
+            "word": "drill",
+            "example": "Until July Sri Lanka was descending into a dystopia presided over by the Rajapaksa family, led by Gotabaya, its drill-sergeant president, and his grasping brothers."
+        },
+        {
+            "id": 291,
+            "word": "trans",
+            "example": "Hostility to gay and trans Americans may be a passing fad"
+        },
+        {
+            "id": 292,
+            "word": "welfare",
+            "example": "But it is also a time when housing and child-care costs combine with uneven taxes and an unbalanced welfare state to create a miserable period."
+        },
+        {
+            "id": 293,
+            "word": "forum",
+            "example": "But instead of becoming a forum for dissent"
+        },
+        {
+            "id": 294,
+            "word": "compelling",
+            "example": "which was successful, and compelling the president to repeal his signature health-care law, which was not."
+        },
+        {
+            "id": 295,
+            "word": "wield",
+            "example": "One big Asian country, Indonesia, with a low-powered approach to foreign affairs, has yet to signal clearly how it intends to wield its influence in an Indo-Pacific context. It does not want to rock any boats with China."
+        },
+        {
+            "id": 296,
+            "word": "remittance",
+            "example": "And reforms could help remittance recipients keep more of the money their relatives send. "
+        },
+        {
+            "id": 297,
+            "word": "ditch",
+            "example": "As with ditching a diet, stopping a high dose of semaglutide is associated with much of the lost weight piling back on."
+        },
+        {
+            "id": 298,
+            "word": "forge",
+            "example": "Mr Choudhury has documented a growing class of firms that help employers forge stable relationships with foreign employees without hiring them directly."
+        },
+        {
+            "id": 299,
+            "word": "mill",
+            "example": "It is building a new airport near Mumbai, splurging $5bn on three seaports, and planning to construct a $5bn steel mill in partnership with POSC"
+        },
+        {
+            "id": 300,
+            "word": "mutual",
+            "example": "he believes that the negotiations themselves could help build mutual trust"
         }
     ]
 }
