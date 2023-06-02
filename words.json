@@ -1,5 +1,5 @@
 {
-    "count": 228,
+    "count": 293,
     "words": [
         {
             "id": 1,
@@ -1140,6 +1140,331 @@
             "id": 228,
             "word": "derive",
             "example": "humans derive value from others spending their scarce time with them"
+        },
+        {
+            "id": 229,
+            "word": "shiver",
+            "example": "It brings a shiver down the spine."
+        },
+        {
+            "id": 230,
+            "word": "Vaingloriously",
+            "example": "Vaingloriously, you start scribbling down every detail of your surroundings"
+        },
+        {
+            "id": 231,
+            "word": "scribbling",
+            "example": "Vaingloriously, you start scribbling down every detail of your surroundings"
+        },
+        {
+            "id": 232,
+            "word": "lines",
+            "example": "as if you are drafting the opening lines of a bestseller"
+        },
+        {
+            "id": 233,
+            "word": "pristine",
+            "example": "sitting in the pristine offices of Anthropic,"
+        },
+        {
+            "id": 234,
+            "word": "darling",
+            "example": "a darling of the artificial-intelligence (ai) scene"
+        },
+        {
+            "id": 235,
+            "word": "tingle",
+            "example": "there was that old familiar tingle"
+        },
+        {
+            "id": 236,
+            "word": "tangentially",
+            "example": "even tangentially, to nuclear bombs"
+        },
+        {
+            "id": 237,
+            "word": "angst",
+            "example": "there has been no shortage of angst about the existential risks posed by ai"
+        },
+        {
+            "id": 238,
+            "word": "dystopian",
+            "example": "they are less worried about a dystopian future when machines outthink humans"
+        },
+        {
+            "id": 239,
+            "word": "lurking",
+            "example": "more about the dangers lurking within the stuff they are making now"
+        },
+        {
+            "id": 240,
+            "word": "back channels",
+            "example": "they have already set up back channels with government officials in Washington, dc"
+        },
+        {
+            "id": 241,
+            "word": "groom",
+            "example": "dangerous capabilities, like child-grooming or bomb-making"
+        },
+        {
+            "id": 242,
+            "word": "Bounty",
+            "example": "plans in coming weeks to offer generous bounties to hackers"
+        },
+        {
+            "id": 243,
+            "word": "incipient",
+            "example": "Such caution makes this incipient tech boom look different from the past"
+        },
+        {
+            "id": 244,
+            "word": "boom",
+            "example": "Such caution makes this incipient tech boom look different from the past"
+        },
+        {
+            "id": 245,
+            "word": "pitches",
+            "example": "many of the startup pitches now are first and foremost about safety"
+        },
+        {
+            "id": 246,
+            "word": "foremost",
+            "example": "many of the startup pitches now are first and foremost about safety"
+        },
+        {
+            "id": 247,
+            "word": "adage",
+            "example": "The old Silicon Valley adage about regulation"
+        },
+        {
+            "id": 248,
+            "word": "jettisoned",
+            "example": "The old Silicon Valley adage about regulation\u2014that it is better to ask for forgiveness than permission\u2014has been jettisoned."
+        },
+        {
+            "id": 249,
+            "word": "sacrifice",
+            "example": "they won\u2019t sacrifice safety just to make money"
+        },
+        {
+            "id": 250,
+            "word": "proprietary",
+            "example": "the startups building their proprietary llms aren\u2019t aiming to overturn the existing big-tech hierarchy."
+        },
+        {
+            "id": 251,
+            "word": "hierarchy",
+            "example": "the startups building their proprietary llms aren\u2019t aiming to overturn the existing big-tech hierarchy."
+        },
+        {
+            "id": 252,
+            "word": "hip",
+            "example": "Openai is joined at the hip to Microsoft"
+        },
+        {
+            "id": 253,
+            "word": "interlocutors",
+            "example": "which enable the chatbots to behave like human interlocutors"
+        },
+        {
+            "id": 254,
+            "word": "overtures",
+            "example": "Such overtures may be perfectly justified by the risks of misinformation,"
+        },
+        {
+            "id": 255,
+            "word": "hazards",
+            "example": "other potential hazards that increasingly powerful ai models may spawn"
+        },
+        {
+            "id": 256,
+            "word": "spawn",
+            "example": "other potential hazards that increasingly powerful ai models may spawn"
+        },
+        {
+            "id": 257,
+            "word": "fortify",
+            "example": "If big tech uses regulation to fortify its position at the commanding heights of generative ai"
+        },
+        {
+            "id": 258,
+            "word": "commanding heights",
+            "example": "If big tech uses regulation to fortify its position at the commanding heights of generative ai"
+        },
+        {
+            "id": 259,
+            "word": "usher",
+            "example": "Instead of ushering in an era of Schumpeterian creative destruction"
+        },
+        {
+            "id": 260,
+            "word": "foregone",
+            "example": "Such an outcome is not a foregone conclusion"
+        },
+        {
+            "id": 261,
+            "word": "wild cards",
+            "example": "One of the wild cards is open-source ai"
+        },
+        {
+            "id": 262,
+            "word": "ransomware",
+            "example": "whether in the hands of a hostile state or a 17-year-old ransomware-maker"
+        },
+        {
+            "id": 263,
+            "word": "thrash",
+            "example": "Such concerns will be thrashed out"
+        },
+        {
+            "id": 264,
+            "word": "grapple",
+            "example": "as the world\u2019s regulatory bodies grapple with generative ai."
+        },
+        {
+            "id": 265,
+            "word": "crunch",
+            "example": "whereby computers teach themselves complicated tasks by crunching large quantities of data"
+        },
+        {
+            "id": 266,
+            "word": "whereby",
+            "example": "whereby computers teach themselves complicated tasks by crunching large quantities of data"
+        },
+        {
+            "id": 267,
+            "word": "de rigueur",
+            "example": "It is de rigueur to follow that description with an immediate disclaimer"
+        },
+        {
+            "id": 268,
+            "word": "disclaimer",
+            "example": "It is de rigueur to follow that description with an immediate disclaimer"
+        },
+        {
+            "id": 269,
+            "word": "seminal",
+            "example": "The seminal study comparing brains and anns was published"
+        },
+        {
+            "id": 270,
+            "word": "arresting",
+            "example": "they found arresting parallels between how the monkeys represented images and how the computers did"
+        },
+        {
+            "id": 271,
+            "word": "parallels",
+            "example": "they found arresting parallels between how the monkeys represented images and how the computers did"
+        },
+        {
+            "id": 272,
+            "word": "cortex",
+            "example": "They have found similarities between anns trained to recognise speech and process language, such as those used in transcription software, and the human auditory cortex."
+        },
+        {
+            "id": 273,
+            "word": "wetware",
+            "example": "biological ones is the apparent ability for software and wetware to interact with each other directly."
+        },
+        {
+            "id": 274,
+            "word": "rather",
+            "example": "started out rather sceptical about the supposed resemblance between natural and artificial neural networks"
+        },
+        {
+            "id": 275,
+            "word": "greyhound",
+            "example": "it would say that it was looking at a greyhound\u2014as opposed to some other object\u2014almost 70% of the time."
+        },
+        {
+            "id": 276,
+            "word": "as opposed to",
+            "example": "it would say that it was looking at a greyhound\u2014as opposed to some other object\u2014almost 70% of the time."
+        },
+        {
+            "id": 277,
+            "word": "prod",
+            "example": "Poking and prodding anns could offer a useful alternative."
+        },
+        {
+            "id": 278,
+            "word": "subject",
+            "example": "the ann could produce a rough summary of a story that the test subject was listening to"
+        },
+        {
+            "id": 279,
+            "word": "gist",
+            "example": " or the gist of a sentence they were imagining"
+        },
+        {
+            "id": 280,
+            "word": "spiral",
+            "example": "Hospital waiting lists in England spiral beyond 7m"
+        },
+        {
+            "id": 281,
+            "word": "suffer",
+            "example": "On basic measures of health, Britain suffers by comparison with its rich-world peers."
+        },
+        {
+            "id": 282,
+            "word": "measures",
+            "example": "On basic measures of health, Britain suffers by comparison with its rich-world peers."
+        },
+        {
+            "id": 283,
+            "word": "boldest",
+            "example": "the boldest reforms can often seem the most tempting"
+        },
+        {
+            "id": 284,
+            "word": "mull",
+            "example": "Others mull the case for much wider use of means-tested charges"
+        },
+        {
+            "id": 285,
+            "word": "skimp",
+            "example": "It especially skimps on capital spending"
+        },
+        {
+            "id": 286,
+            "word": "dole",
+            "example": "the share doled out to hospitals had risen to almost two-thirds"
+        },
+        {
+            "id": 287,
+            "word": "practitioner",
+            "example": "general practitioners and local specialist"
+        },
+        {
+            "id": 288,
+            "word": "corollary",
+            "example": "The corollary of moving care out of hospitals and into communities is to focus on prevention"
+        },
+        {
+            "id": 289,
+            "word": "muscular",
+            "example": "The government needs a more muscular strategy to tackle this problem"
+        },
+        {
+            "id": 290,
+            "word": "relentlessly",
+            "example": "Funding should be relentlessly focused on health outcomes"
+        },
+        {
+            "id": 291,
+            "word": "insulin",
+            "example": "Care workers and insulin pumps are less sexy during election campaigns"
+        },
+        {
+            "id": 292,
+            "word": "pumps",
+            "example": "Care workers and insulin pumps are less sexy during election campaigns"
+        },
+        {
+            "id": 293,
+            "word": "vividly",
+            "example": "The covid-19 pandemic vividly demonstrated the power of data and technology to reach people quicker"
         }
     ]
 }
