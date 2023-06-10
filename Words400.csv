@@ -1,52 +1,76 @@
-Index,Word,Usage,Time
-1,dearth,the world is likely to face a dearth of young educated workers unless something changes,
-2,pollster,People often tell pollsters they want more children than they have. ,
-3,lavish,"Singapore offers lavish grants, tax rebates and child-care subsidies—but has a fertility rate of 1.0.",
-4,rebate,"Singapore offers lavish grants, tax rebates and child-care subsidies—but has a fertility rate of 1.0.",
-5,subsidy,"Singapore offers lavish grants, tax rebates and child-care subsidies—but has a fertility rate of 1.0.",
-6,cast,it is tempting to cast low fertility rates as a crisis to be solved,
-7,stagnant,"Boosting their skills is desirable in itself, and might also cast more young migrants as innovators in otherwise-stagnant economies. ",
-8,demographic,Unexpected productivity advances meant that demographic time-bombs,
-9,detonate,demographic time-bombs failed to detonate,
-10,boggle,The figure boggles the mind for a variety of reasons.,
-11,short of,China is running short of young people.,
-12,manpower,"China is also famous for mobilising resources, including manpower.",
-13,cohort,Yet it is wasting large numbers of the best-educated cohort it has ever produced.,
-14,laments," “The market is terrible,” she laments. “Many graduates are very anxious.”",
-15,outlast,Although the problem has outlasted the pandemic,
-16,bulge,That has created a bulge of newly minted graduates entering the labour force in subsequent years.,
-17,tempt,China’s reopening may have tempted many of those who had dropped out of the job market,
-18,aggravate,The bottleneck has been aggravated by mismatches in timing,
-19,boast,Some of them boast qualifications that are out of sync with the new demands of the economy.,
-20,steer,The government is keen to steer talent into “hard tech” industries,
-21,talent,The government is keen to steer talent into “hard tech” industries,
-22,vocational,Youngsters with vocational qualifications or just a high-school education may have more practical skills,
-23,hapless,said one hapless graduate,
-24,pedestal,it’s more like a pedestal I can’t get down from.,
-25,heed,"The offer is open to all firms, but soes are most likely to heed the call.",
-26,initiative,These initiatives risk drawing some of China’s better-educated minds into some of the least efficient parts of its economy.,
-27,risk,These initiatives risk drawing some of China’s better-educated minds into some of the least efficient parts of its economy.,
-28,stop-gap measures,"But for young folk, stop-gap measures do at least alleviate some of the worry and confusion.",
-29,outskirts,Agrey rectangular building on the outskirts of San Jose houses,
-30,Tangle,Tangles of colourful wires connect high-end servers,
-31,Bulky,Bulky air-conditioning units whirr overhead.,
-32,whirr,Bulky air-conditioning units whirr overhead.,
-33,lease,"The building belongs to Equinix, a firm which leases data-centre space. ",
-34,harness,who harness the technology’s potential.,
-35,picks,it is already minting fortunes for the sellers of the requisite picks and shovels.,
-36,shovels,it is already minting fortunes for the sellers of the requisite picks and shovels.,
-37,sweep,"tsmc of Taiwan, have been swept up in the ai excitement.",
-38,marshal,helps run the ai models and marshal the data.,
-39,inference,"this “inference” will, cumulatively, also demand plenty of processing oomph",
-40,oomph,"this “inference” will, cumulatively, also demand plenty of processing oomph",
-41,foundry,which design chips and have them made at foundries like tsmc,
-42,dregs,even if it just gets the dregs” of the market,
-43,undertake,Alphabet and Microsoft plan to undertake capital spending of around $120bn this year,
-44,vacancy,In the second half of 2022 data-centre vacancy rates stood at 3%,
-45,prodigious,prodigious users,
-46,hype,hype can turn to disappointment on a dime. ,
-47,dime,hype can turn to disappointment on a dime. ,
-48,clamp,"If the technology does live up to its transformative billing, regulators could clamp down",
-49,dampen,in doing so dampen the prospects for ai-infrastructure firms.,
-50,pedlar,"So long as everybody is rushing, the pedlars of picks and shovels will be cashing in.",
-51,ilk,Despite the popularity of Chatgpt and its ilk,
+Index,Word,Usage
+1,dearth,the world is likely to face a dearth of young educated workers unless something changes
+2,pollster,People often tell pollsters they want more children than they have. 
+3,lavish,"Singapore offers lavish grants, tax rebates and child-care subsidies—but has a fertility rate of 1.0."
+4,rebate,"Singapore offers lavish grants, tax rebates and child-care subsidies—but has a fertility rate of 1.0."
+5,subsidy,"Singapore offers lavish grants, tax rebates and child-care subsidies—but has a fertility rate of 1.0."
+6,cast,it is tempting to cast low fertility rates as a crisis to be solved
+7,stagnant,"Boosting their skills is desirable in itself, and might also cast more young migrants as innovators in otherwise-stagnant economies. "
+8,demographic,Unexpected productivity advances meant that demographic time-bombs
+9,detonate,demographic time-bombs failed to detonate
+10,boggle,The figure boggles the mind for a variety of reasons.
+11,short of,China is running short of young people.
+12,manpower,"China is also famous for mobilising resources, including manpower."
+13,cohort,Yet it is wasting large numbers of the best-educated cohort it has ever produced.
+14,laments," “The market is terrible,” she laments. “Many graduates are very anxious.”"
+15,outlast,Although the problem has outlasted the pandemic
+16,bulge,That has created a bulge of newly minted graduates entering the labour force in subsequent years.
+17,tempt,China’s reopening may have tempted many of those who had dropped out of the job market
+18,aggravate,The bottleneck has been aggravated by mismatches in timing
+19,boast,Some of them boast qualifications that are out of sync with the new demands of the economy.
+20,steer,The government is keen to steer talent into “hard tech” industries
+21,talent,The government is keen to steer talent into “hard tech” industries
+22,vocational,Youngsters with vocational qualifications or just a high-school education may have more practical skills
+23,hapless,said one hapless graduate
+24,pedestal,it’s more like a pedestal I can’t get down from.
+25,heed,"The offer is open to all firms, but soes are most likely to heed the call."
+26,initiative,These initiatives risk drawing some of China’s better-educated minds into some of the least efficient parts of its economy.
+27,risk,These initiatives risk drawing some of China’s better-educated minds into some of the least efficient parts of its economy.
+28,stop-gap measures,"But for young folk, stop-gap measures do at least alleviate some of the worry and confusion."
+29,outskirts,Agrey rectangular building on the outskirts of San Jose houses
+30,Tangle,Tangles of colourful wires connect high-end servers
+31,Bulky,Bulky air-conditioning units whirr overhead.
+32,whirr,Bulky air-conditioning units whirr overhead.
+33,lease,"The building belongs to Equinix, a firm which leases data-centre space. "
+34,harness,who harness the technology’s potential.
+35,picks,it is already minting fortunes for the sellers of the requisite picks and shovels.
+36,shovels,it is already minting fortunes for the sellers of the requisite picks and shovels.
+37,sweep,"tsmc of Taiwan, have been swept up in the ai excitement."
+38,marshal,helps run the ai models and marshal the data.
+39,inference,"this “inference” will, cumulatively, also demand plenty of processing oomph"
+40,oomph,"this “inference” will, cumulatively, also demand plenty of processing oomph"
+41,foundry,which design chips and have them made at foundries like tsmc
+42,dregs,even if it just gets the dregs” of the market
+43,undertake,Alphabet and Microsoft plan to undertake capital spending of around $120bn this year
+44,vacancy,In the second half of 2022 data-centre vacancy rates stood at 3%
+45,prodigious,prodigious users
+46,hype,hype can turn to disappointment on a dime. 
+47,dime,hype can turn to disappointment on a dime. 
+48,clamp,"If the technology does live up to its transformative billing, regulators could clamp down"
+49,dampen,in doing so dampen the prospects for ai-infrastructure firms.
+50,pedlar,"So long as everybody is rushing, the pedlars of picks and shovels will be cashing in."
+51,ilk,Despite the popularity of Chatgpt and its ilk
+52,breach,The dam on Ukraine’s river was breached
+53, crank,Ukraine cranked up its highly anticipated counter-offensive to recapture territory
+54,Penetrate,In a few places its forces penetrated several kilometres into occupied areas.
+55,broker,Their rapprochement was brokered three months ago by China.
+56,rapprochement,Their rapprochement was brokered three months ago by China.
+57,opium poppy,The Taliban were reported to have launched a successful crackdown on Afghanistan’s opium poppy production
+58,wheat,wheat has been planted in place of poppies
+59,blast,"America’s top defence official, blasted China for refusing to hold military talks"
+60,ramp,"China, in turn, blamed America for ramping up tensions by placing sanctions on Chinese officials"
+61,manoeuvre,calling it an “unsafe” manoeuvre.
+62,hazy,Wildfires in Canada left swathes of North America choked in hazy smog.
+63,revelation,The resignations follow revelations that intelligence services had wiretapped the mobile phone of Ms Sarabia’s former maid
+64,wiretap,The resignations follow revelations that intelligence services had wiretapped the mobile phone of Ms Sarabia’s former maid
+65,maid,The resignations follow revelations that intelligence services had wiretapped the mobile phone of Ms Sarabia’s former maid
+66,title,regularise land titles
+67,livestock,"set up a tracing system for wood, livestock and other agricultural products"
+68,lieutenant,Both were lieutenants of Donald Trump
+69,broke ranks,Mr Pence served as his vice-president but broke ranks over his refusal to concede the presidential election
+70,tricky,They face the tricky—arguably impossible—task of courting Republicans
+71,arguably,They face the tricky—arguably impossible—task of courting Republicans
+72,court,They face the tricky—arguably impossible—task of courting Republicans
+73,antagonize,without antagonising his many supporters.
+74,slot,They were elected for regional slots
+75,stint,Their two-year-long stints will start in January.
