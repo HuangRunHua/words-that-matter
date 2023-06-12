@@ -1,5 +1,5 @@
 {
-    "count": 375,
+    "count": 399,
     "words": [
         {
             "id": 1,
@@ -1875,6 +1875,126 @@
             "id": 375,
             "word": "stint",
             "example": "Their two-year-long stints will start in January."
+        },
+        {
+            "id": 376,
+            "word": "gadget",
+            "example": "No one shows off a new gadget quite like Apple."
+        },
+        {
+            "id": 377,
+            "word": "billed as",
+            "example": "But the device that Tim Cook unveiled on June 5th was billed as something more significant."
+        },
+        {
+            "id": 378,
+            "word": "sleek",
+            "example": "a pair of sleek glass goggles"
+        },
+        {
+            "id": 379,
+            "word": "goggles",
+            "example": "a pair of sleek glass goggles"
+        },
+        {
+            "id": 380,
+            "word": "spatial",
+            "example": "an entirely new spatial-computing platform"
+        },
+        {
+            "id": 381,
+            "word": "underwhelm",
+            "example": "The presentation was both jaw-droppingly impressive and oddly underwhelming. "
+        },
+        {
+            "id": 382,
+            "word": "eclipse",
+            "example": " The Vision is stuffed with innovations that eclipse every other headset on the market."
+        },
+        {
+            "id": 383,
+            "word": "Clunky",
+            "example": "Clunky joysticks are out, hand gestures and eyeball tracking are in"
+        },
+        {
+            "id": 384,
+            "word": "joystick",
+            "example": "Clunky joysticks are out, hand gestures and eyeball tracking are in"
+        },
+        {
+            "id": 385,
+            "word": "avatar",
+            "example": "Instead of legless avatars"
+        },
+        {
+            "id": 386,
+            "word": "is dusted",
+            "example": "The product is dusted with Apple\u2019s user-friendly design magic."
+        },
+        {
+            "id": 387,
+            "word": "uninspiring",
+            "example": "the company had strangely uninspiring suggestions for what to do with its miraculous device. "
+        },
+        {
+            "id": 388,
+            "word": "miraculous",
+            "example": "the company had strangely uninspiring suggestions for what to do with its miraculous device. "
+        },
+        {
+            "id": 389,
+            "word": "palm",
+            "example": "not the palm of your hand"
+        },
+        {
+            "id": 390,
+            "word": "exploit",
+            "example": "Mr Cook is right that spatial computing is a new platform, but it will take time to exploit."
+        },
+        {
+            "id": 391,
+            "word": "sparkle",
+            "example": "Like the Vision, its technology sparkled"
+        },
+        {
+            "id": 392,
+            "word": "damp",
+            "example": "Apple\u2019s own smartwatch was a damp squib"
+        },
+        {
+            "id": 393,
+            "word": "squib",
+            "example": "Apple\u2019s own smartwatch was a damp squib"
+        },
+        {
+            "id": 394,
+            "word": "planetarium",
+            "example": "Apple previewed a \u201cplanetarium\u201d in its demo"
+        },
+        {
+            "id": 395,
+            "word": "eerily",
+            "example": "Artificial intelligence will allow programmers to make eerily realistic content "
+        },
+        {
+            "id": 396,
+            "word": "dabble",
+            "example": "surgeons, engineers and architects have dabbled in the tech"
+        },
+        {
+            "id": 397,
+            "word": "cameo",
+            "example": "Disney made a cameo with ideas for immersive cinema and sports coverage"
+        },
+        {
+            "id": 398,
+            "word": "immersive",
+            "example": "Disney made a cameo with ideas for immersive cinema and sports coverage"
+        },
+        {
+            "id": 399,
+            "word": "coverage",
+            "example": "Disney made a cameo with ideas for immersive cinema and sports coverage"
         }
     ]
 }
