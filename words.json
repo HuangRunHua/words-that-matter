@@ -1,5 +1,5 @@
 {
-    "count": 399,
+    "count": 424,
     "words": [
         {
             "id": 1,
@@ -1995,6 +1995,131 @@
             "id": 399,
             "word": "coverage",
             "example": "Disney made a cameo with ideas for immersive cinema and sports coverage"
+        },
+        {
+            "id": 400,
+            "word": "venerable",
+            "example": "Others bet that these institutions will lead to a better education, higher grades and a place at a venerable university"
+        },
+        {
+            "id": 401,
+            "word": "crest",
+            "example": "whether the crests and crenellations are worth it."
+        },
+        {
+            "id": 402,
+            "word": "crenellation",
+            "example": "whether the crests and crenellations are worth it."
+        },
+        {
+            "id": 403,
+            "word": "swanky",
+            "example": "at least for pupils sitting in the swankiest private classrooms."
+        },
+        {
+            "id": 404,
+            "word": "furore",
+            "example": "That is because their alumni continue to enjoy access to the best universities at rates which would cause a furore in the old country."
+        },
+        {
+            "id": 405,
+            "word": "pudding",
+            "example": "Hockey sticks and rice pudding appeal across the ages."
+        },
+        {
+            "id": 406,
+            "word": "snooty",
+            "example": "The most snooty schools bill parents on average $28,000 each year for a day pupil."
+        },
+        {
+            "id": 407,
+            "word": "perpetuate",
+            "example": "who accuse posh schools of perpetuating elites"
+        },
+        {
+            "id": 408,
+            "word": "posh",
+            "example": "who accuse posh schools of perpetuating elites"
+        },
+        {
+            "id": 409,
+            "word": "edge",
+            "example": "One study finds that the edge they enjoy by the time they are 18"
+        },
+        {
+            "id": 410,
+            "word": "prestigious",
+            "example": "because better grades might secure a pupil a slot at a more prestigious university "
+        },
+        {
+            "id": 411,
+            "word": "so as to",
+            "example": "They are also more likely to get extra help so as to ace interviews and admissions tests."
+        },
+        {
+            "id": 412,
+            "word": "nab",
+            "example": "Private-schoolers no longer nab quite such unfair shares of top university places as they once did. "
+        },
+        {
+            "id": 413,
+            "word": "horde",
+            "example": "which once sent hordes of pupils to the two universities."
+        },
+        {
+            "id": 414,
+            "word": "motley",
+            "example": "because its schools are a more motley bunch than Britain\u2019s"
+        },
+        {
+            "id": 415,
+            "word": "pious",
+            "example": "many pious parents pick private classes for reasons other than academic performance"
+        },
+        {
+            "id": 416,
+            "word": "singling out",
+            "example": "singling out the extra benefits rich children gain from attending"
+        },
+        {
+            "id": 417,
+            "word": "leg-up",
+            "example": "the relatives of alumni get a leg-up in admissions"
+        },
+        {
+            "id": 418,
+            "word": "brazenly",
+            "example": "Nothing so brazenly unfair happens at British universities."
+        },
+        {
+            "id": 419,
+            "word": "lawn",
+            "example": "Green lawns and greenbacks"
+        },
+        {
+            "id": 420,
+            "word": "greenback",
+            "example": "Green lawns and greenbacks"
+        },
+        {
+            "id": 421,
+            "word": "tuition",
+            "example": "English universities charge every domestic student the same tuition fees"
+        },
+        {
+            "id": 422,
+            "word": "verge",
+            "example": "America may be on the verge of change"
+        },
+        {
+            "id": 423,
+            "word": "underrepresented",
+            "example": "colleges and universities can no longer boost applicants from underrepresented minority groups"
+        },
+        {
+            "id": 424,
+            "word": "tax breaks",
+            "example": "talks of abolishing private schools\u2019 charitable status and stripping them of tax breaks"
         }
     ]
 }
