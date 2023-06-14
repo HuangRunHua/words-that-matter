@@ -1,5 +1,5 @@
 {
-    "count": 424,
+    "count": 449,
     "words": [
         {
             "id": 1,
@@ -2120,6 +2120,131 @@
             "id": 424,
             "word": "tax breaks",
             "example": "talks of abolishing private schools\u2019 charitable status and stripping them of tax breaks"
+        },
+        {
+            "id": 425,
+            "word": "befit",
+            "example": "Lawyers are a conservative bunch, befitting a profession that rewards preparedness, sagacity and respect for precedent."
+        },
+        {
+            "id": 426,
+            "word": "preparedness",
+            "example": "Lawyers are a conservative bunch, befitting a profession that rewards preparedness, sagacity and respect for precedent."
+        },
+        {
+            "id": 427,
+            "word": "sagacity",
+            "example": "Lawyers are a conservative bunch, befitting a profession that rewards preparedness, sagacity and respect for precedent."
+        },
+        {
+            "id": 428,
+            "word": "precedent",
+            "example": "Lawyers are a conservative bunch, befitting a profession that rewards preparedness, sagacity and respect for precedent."
+        },
+        {
+            "id": 429,
+            "word": "replete",
+            "example": "It created a motion replete with made-up cases"
+        },
+        {
+            "id": 430,
+            "word": "promptly",
+            "example": "Mr Schwartz promptly filed after the bot assured him"
+        },
+        {
+            "id": 431,
+            "word": "fad",
+            "example": "For that is what ai is: neither a fad nor an apocalypse, but a tool in its infancy"
+        },
+        {
+            "id": 432,
+            "word": "apocalypse",
+            "example": "For that is what ai is: neither a fad nor an apocalypse, but a tool in its infancy"
+        },
+        {
+            "id": 433,
+            "word": "infancy",
+            "example": "For that is what ai is: neither a fad nor an apocalypse, but a tool in its infancy"
+        },
+        {
+            "id": 434,
+            "word": "reap",
+            "example": "Firms that get it right stand to reap rewards."
+        },
+        {
+            "id": 435,
+            "word": "Laggard",
+            "example": "Laggards risk going the way of typesetters."
+        },
+        {
+            "id": 436,
+            "word": "typesetter",
+            "example": "Laggards risk going the way of typesetters."
+        },
+        {
+            "id": 437,
+            "word": "clerical",
+            "example": "more than in any occupation surveyed except for clerical support"
+        },
+        {
+            "id": 438,
+            "word": "tedious",
+            "example": "Lawyers spend an awful lot of time scrutinising tedious documents"
+        },
+        {
+            "id": 439,
+            "word": "tyranny",
+            "example": "removes the tyranny of the keyword"
+        },
+        {
+            "id": 440,
+            "word": "litigation",
+            "example": "using it for contract analysis and litigation prep"
+        },
+        {
+            "id": 441,
+            "word": "hallucination",
+            "example": "Many worry about \u201challucinations\u201d"
+        },
+        {
+            "id": 442,
+            "word": "aplomb",
+            "example": "present falsehoods with aplomb"
+        },
+        {
+            "id": 443,
+            "word": "inadvertently",
+            "example": "inadvertently feeding information"
+        },
+        {
+            "id": 444,
+            "word": "attorney-client",
+            "example": "attorney-client privilege"
+        },
+        {
+            "id": 445,
+            "word": "debacle",
+            "example": "After news of Mr Schwartz\u2019s debacle broke"
+        },
+        {
+            "id": 446,
+            "word": "attest",
+            "example": "attorneys to file a certificate attesting that they either did not use generative AI"
+        },
+        {
+            "id": 447,
+            "word": "hunch",
+            "example": "looking for answers to senior lawyers\u2019 questions and hunches"
+        },
+        {
+            "id": 448,
+            "word": "lean",
+            "example": "You can be a smaller, leaner specialised firm"
+        },
+        {
+            "id": 449,
+            "word": "flat fees",
+            "example": "Some may move to charging flat fees based on the service provided"
         }
     ]
 }
