@@ -1,5 +1,5 @@
 {
-    "count": 449,
+    "count": 464,
     "words": [
         {
             "id": 1,
@@ -2245,6 +2245,81 @@
             "id": 449,
             "word": "flat fees",
             "example": "Some may move to charging flat fees based on the service provided"
+        },
+        {
+            "id": 450,
+            "word": "nudge",
+            "example": "nudging the firm\u2019s market capitalisation close to $3trn."
+        },
+        {
+            "id": 451,
+            "word": "schism",
+            "example": "A merger announced marked the end of a bitter schism in golf."
+        },
+        {
+            "id": 452,
+            "word": " lure",
+            "example": "luring star players away from the sport\u2019s traditional tournaments with big cheques"
+        },
+        {
+            "id": 453,
+            "word": "foothold",
+            "example": "The deal will end legal disputes between the groups and give the Gulf state another controversial foothold in global sport."
+        },
+        {
+            "id": 454,
+            "word": "steam",
+            "example": "fuelling fears that the country\u2019s economic recovery is losing steam"
+        },
+        {
+            "id": 455,
+            "word": "shed",
+            "example": "By March 2024 the firm will shed its Chinese and Indian businesses. "
+        },
+        {
+            "id": 456,
+            "word": "extortion",
+            "example": "In its lawsuit Merck said that the measures are \u201ctantamount to extortion\u201d"
+        },
+        {
+            "id": 457,
+            "word": "copper",
+            "example": "separate its coal business from its copper- and zinc-mining operations"
+        },
+        {
+            "id": 458,
+            "word": "zinc",
+            "example": "separate its coal business from its copper- and zinc-mining operations"
+        },
+        {
+            "id": 459,
+            "word": "Volatile",
+            "example": "Volatile commodity prices since Russia\u2019s invasion of Ukraine"
+        },
+        {
+            "id": 460,
+            "word": "Confederation",
+            "example": "The Confederation of British Industry"
+        },
+        {
+            "id": 461,
+            "word": "cast",
+            "example": "The group was backed by 93% of votes cast following months of crisis"
+        },
+        {
+            "id": 462,
+            "word": "Guild",
+            "example": "The Directors Guild of America"
+        },
+        {
+            "id": 463,
+            "word": "tentative",
+            "example": "reached a tentative agreement on pay with Hollywood studios"
+        },
+        {
+            "id": 464,
+            "word": "blockbuster tie-up",
+            "example": "since the completion of the blockbuster tie-up between"
         }
     ]
 }
