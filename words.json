@@ -1,5 +1,5 @@
 {
-    "count": 464,
+    "count": 482,
     "words": [
         {
             "id": 1,
@@ -2320,6 +2320,96 @@
             "id": 464,
             "word": "blockbuster tie-up",
             "example": "since the completion of the blockbuster tie-up between"
+        },
+        {
+            "id": 465,
+            "word": "marvel",
+            "example": "Apple\u2019s Vision Pro is a technical marvel."
+        },
+        {
+            "id": 466,
+            "word": "lingo",
+            "example": "The Vision Pro, a headset for virtual and augmented reality (vr and ar in the lingo"
+        },
+        {
+            "id": 467,
+            "word": "dub",
+            "example": "Apple dubbed the sleek glass goggles \u201cthe most ambitious product we\u2019ve ever created\u201d."
+        },
+        {
+            "id": 468,
+            "word": "flop",
+            "example": "The Vision Pro\u2019s first iteration may be a commercial flop."
+        },
+        {
+            "id": 469,
+            "word": "iris",
+            "example": "It tracks eyes like a mouse, and recognises irises in lieu of a password."
+        },
+        {
+            "id": 470,
+            "word": "lieu",
+            "example": "It tracks eyes like a mouse, and recognises irises in lieu of a password."
+        },
+        {
+            "id": 471,
+            "word": "strap",
+            "example": "though Apple\u2019s designers have done their best to make it as sleek as possible, it is still an awkward thing to strap to your face."
+        },
+        {
+            "id": 472,
+            "word": "ludicrously",
+            "example": "The device was considered ludicrously expensive when it launched"
+        },
+        {
+            "id": 473,
+            "word": "retrench",
+            "example": "which despite retrenching a little has been on a hiring and acquiring spree in its aim to make the \u201cmetaverse\u201d into reality. "
+        },
+        {
+            "id": 474,
+            "word": "spree",
+            "example": "which despite retrenching a little has been on a hiring and acquiring spree in its aim to make the \u201cmetaverse\u201d into reality. "
+        },
+        {
+            "id": 475,
+            "word": "hoover",
+            "example": "As well as hoovering up talent, Meta has been recruiting users."
+        },
+        {
+            "id": 476,
+            "word": "flog",
+            "example": "which has been flogging its Quest 2 at a loss to build up a critical mass of users. "
+        },
+        {
+            "id": 477,
+            "word": "speculate",
+            "example": "Tech types have speculated that it will be possible to have a pair of ar glasses"
+        },
+        {
+            "id": 478,
+            "word": "polish",
+            "example": "Apple has a reputation for releasing perfect, polished products."
+        },
+        {
+            "id": 479,
+            "word": "slick",
+            "example": "Apple\u2019s Vision Pro presentation, though characteristically slick"
+        },
+        {
+            "id": 480,
+            "word": "nostalgia",
+            "example": "urning the device into a \u201cnostalgia generator\u201d"
+        },
+        {
+            "id": 481,
+            "word": "gargantuan",
+            "example": "Its gargantuan profits give it more cash to spend on experiments."
+        },
+        {
+            "id": 482,
+            "word": "presumably",
+            "example": "Apple\u2019s strategy is also straightforward: make the best headset and charge consumers a lot of money for it, and, presumably, also charge developers a slice of their app earnings"
         }
     ]
 }
