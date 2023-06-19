@@ -1,5 +1,5 @@
 {
-    "count": 482,
+    "count": 502,
     "words": [
         {
             "id": 1,
@@ -2410,6 +2410,106 @@
             "id": 482,
             "word": "presumably",
             "example": "Apple\u2019s strategy is also straightforward: make the best headset and charge consumers a lot of money for it, and, presumably, also charge developers a slice of their app earnings"
+        },
+        {
+            "id": 483,
+            "word": "haphazardly",
+            "example": "Mr Trump stored secret papers haphazardly throughout his home in Florida"
+        },
+        {
+            "id": 484,
+            "word": "throughout",
+            "example": "Mr Trump stored secret papers haphazardly throughout his home in Florida"
+        },
+        {
+            "id": 485,
+            "word": "populist",
+            "example": "a media tycoon and unapologetic populist"
+        },
+        {
+            "id": 486,
+            "word": "villa",
+            "example": "at his villa, where he cavorted with (very) young scantily clad women. "
+        },
+        {
+            "id": 487,
+            "word": "cavort",
+            "example": "at his villa, where he cavorted with (very) young scantily clad women. "
+        },
+        {
+            "id": 488,
+            "word": "scantily",
+            "example": "at his villa, where he cavorted with (very) young scantily clad women. "
+        },
+        {
+            "id": 489,
+            "word": "clad",
+            "example": "at his villa, where he cavorted with (very) young scantily clad women. "
+        },
+        {
+            "id": 490,
+            "word": "trundle",
+            "example": "Ukraine\u2019s counter-offensive trundled on."
+        },
+        {
+            "id": 491,
+            "word": "menace",
+            "example": "China as a menace for using its dominance in supply chains to wield its political clout."
+        },
+        {
+            "id": 492,
+            "word": "wield",
+            "example": "China as a menace for using its dominance in supply chains to wield its political clout."
+        },
+        {
+            "id": 493,
+            "word": "umbrage",
+            "example": "He also took umbrage with another committee"
+        },
+        {
+            "id": 494,
+            "word": "hog",
+            "example": "Sturgeon, was for once glad that Mr Johnson hogged the headlines to divert attention from her troubles."
+        },
+        {
+            "id": 495,
+            "word": "en",
+            "example": "The vessel was en route to Italy from Libya."
+        },
+        {
+            "id": 496,
+            "word": "cumbersome",
+            "example": "the country will abolish its cumbersome system"
+        },
+        {
+            "id": 497,
+            "word": "rhino",
+            "example": "White rhinos have been re- introduced"
+        },
+        {
+            "id": 498,
+            "word": "poacher",
+            "example": "White rhinos have been re- introduced after the last one was killed by poachers"
+        },
+        {
+            "id": 499,
+            "word": "denude",
+            "example": "but conflict and poaching have denuded it of many of its animals."
+        },
+        {
+            "id": 500,
+            "word": "quota",
+            "example": "The groups are fighting over government quotas for jobs"
+        },
+        {
+            "id": 501,
+            "word": "jungle",
+            "example": "Four children were found after spending 40 days in the Colombian jungle."
+        },
+        {
+            "id": 502,
+            "word": "indigenous",
+            "example": "All four children were from indigenous group"
         }
     ]
 }
