@@ -1,5 +1,5 @@
 {
-    "count": 502,
+    "count": 523,
     "words": [
         {
             "id": 1,
@@ -2510,6 +2510,111 @@
             "id": 502,
             "word": "indigenous",
             "example": "All four children were from indigenous group"
+        },
+        {
+            "id": 503,
+            "word": "fall short",
+            "example": "Rishi Sunak\u2019s enthusiasm is welcome. But his plans for Britain fall short"
+        },
+        {
+            "id": 504,
+            "word": "prosper",
+            "example": "The prime minister\u2019s aim is for Britain to prosper from the booming opportunities"
+        },
+        {
+            "id": 505,
+            "word": "stoke",
+            "example": "Generative ai has stoked a frenzy of excitement (and some fear) "
+        },
+        {
+            "id": 506,
+            "word": "frenzy",
+            "example": "Generative ai has stoked a frenzy of excitement (and some fear) "
+        },
+        {
+            "id": 507,
+            "word": "vanguard",
+            "example": "politicians have started to acclaim its potential, and British ones are in the vanguard"
+        },
+        {
+            "id": 508,
+            "word": "harness",
+            "example": "Britain, says Mr Sunak, will harness ai"
+        },
+        {
+            "id": 509,
+            "word": "vim",
+            "example": "Mr Sunak\u2019s vim and his readiness to champion ai are welcome"
+        },
+        {
+            "id": 510,
+            "word": "trove",
+            "example": "The state generates troves of data"
+        },
+        {
+            "id": 511,
+            "word": "aplenty",
+            "example": "But there are problems aplenty, too"
+        },
+        {
+            "id": 512,
+            "word": "exert",
+            "example": "America\u2019s dominance in tech exerts a steady pull on capital"
+        },
+        {
+            "id": 513,
+            "word": "duly",
+            "example": "American firms duly dominate in ai"
+        },
+        {
+            "id": 514,
+            "word": "cram",
+            "example": "It needs to cram more people who know one end of a gpu from the other into positions of influence in government."
+        },
+        {
+            "id": 515,
+            "word": "extol",
+            "example": "Mr Sunak may loudly extol the promise of Britgpt"
+        },
+        {
+            "id": 516,
+            "word": "pragmatic",
+            "example": "The goal should be a pragmatic set of rules keeping ai safe"
+        },
+        {
+            "id": 517,
+            "word": "Thorny",
+            "example": "The last and thorniest concern is how to get ai developers the compute they need to train and run large models. "
+        },
+        {
+            "id": 518,
+            "word": "pertain",
+            "example": "data that are sensitive, that capture aspects of either human health or behaviour, or pertain to national security"
+        },
+        {
+            "id": 519,
+            "word": "spin-off",
+            "example": "More compute on British soil will have all sorts of local spin-offs and benefits."
+        },
+        {
+            "id": 520,
+            "word": "holding back",
+            "example": "The queue is holding back potential investors across the economy."
+        },
+        {
+            "id": 521,
+            "word": "moonshot",
+            "example": "Other steps could include using public money to fund a \u201cmoonshot\u201d project,"
+        },
+        {
+            "id": 522,
+            "word": "breeze",
+            "example": "Nvidia\u2019s edge comes from clever software which makes training models on its gpus a breeze"
+        },
+        {
+            "id": 523,
+            "word": "dogs",
+            "example": "With better software their chips could compete with Nvidia\u2019s and ease the supply crunch that dogs ai developers the world over."
         }
     ]
 }
