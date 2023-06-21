@@ -33,6 +33,7 @@ class WordsJSONGenerator(object):
             json.dump(self.words, f)
 
 if __name__ == "__main__":
-    wjg = WordsJSONGenerator(file_name='Words600.csv')
-    wjg.read_csv_list()
-    wjg.save_words2json()
+    for i in range(1, 7):
+        wjg = WordsJSONGenerator(file_name='Words'+str(i)+'00.csv')
+        wjg.read_csv_list()
+        wjg.save_words2json()

@@ -1,5 +1,5 @@
 {
-    "count": 523,
+    "count": 527,
     "words": [
         {
             "id": 1,
@@ -2615,6 +2615,26 @@
             "id": 523,
             "word": "dogs",
             "example": "With better software their chips could compete with Nvidia\u2019s and ease the supply crunch that dogs ai developers the world over."
+        },
+        {
+            "id": 524,
+            "word": "scrapheap",
+            "example": "many people worry that they will end up on the economic scrapheap."
+        },
+        {
+            "id": 525,
+            "word": "doom-monger",
+            "example": "Few of the doom-mongers have a good explanation for"
+        },
+        {
+            "id": 526,
+            "word": "headcount",
+            "example": "More than half of Britain\u2019s employers expect ai technologies to have a positive impact on their headcount over the next two years, it finds."
+        },
+        {
+            "id": 527,
+            "word": " shakes out",
+            "example": "To see how it all shakes out, we will publish updates to this analysis every few months. "
         }
     ]
 }
