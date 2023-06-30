@@ -1,5 +1,5 @@
 {
-    "count": 527,
+    "count": 537,
     "words": [
         {
             "id": 1,
@@ -2635,6 +2635,56 @@
             "id": 527,
             "word": " shakes out",
             "example": "To see how it all shakes out, we will publish updates to this analysis every few months. "
+        },
+        {
+            "id": 528,
+            "word": "brim",
+            "example": "co-founder and chairman of Oracle, is still brimming with energy."
+        },
+        {
+            "id": 529,
+            "word": "septuagenarian",
+            "example": "the septuagenarian rhapsodised about artificial intelligence (ai) and the latest cloud-computing technology. "
+        },
+        {
+            "id": 530,
+            "word": "rhapsodise",
+            "example": "the septuagenarian rhapsodised about artificial intelligence (ai) and the latest cloud-computing technology. "
+        },
+        {
+            "id": 531,
+            "word": "cede",
+            "example": "Oracle has in recent years ceded market share in its core enterprise products."
+        },
+        {
+            "id": 532,
+            "word": "slice",
+            "example": "Oracle\u2019s slice of the database-software market, which remains its bread and butter"
+        },
+        {
+            "id": 533,
+            "word": "outwit",
+            "example": "Oracle also outwitted them to snatch the cloud contract to host the American operations of TikTok"
+        },
+        {
+            "id": 534,
+            "word": "snatch",
+            "example": "Oracle also outwitted them to snatch the cloud contract to host the American operations of TikTok"
+        },
+        {
+            "id": 535,
+            "word": "hefty",
+            "example": "To fund those repurchases, and its cloud investments, the company has taken on hefty debts."
+        },
+        {
+            "id": 536,
+            "word": "telltale",
+            "example": "a telltale sign of dangerously high leverage"
+        },
+        {
+            "id": 537,
+            "word": "chip away",
+            "example": "In recent quarters it has slowed share repurchases and started to chip away at its debt mountain."
         }
     ]
 }
